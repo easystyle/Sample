@@ -1,5 +1,0 @@
-#define IDR_MAINMENU	101
-#define ID_ITEM_COPY	10101
-#define ID_ITEM_PASTE	10102
-
-#define ID_EDIT1	501

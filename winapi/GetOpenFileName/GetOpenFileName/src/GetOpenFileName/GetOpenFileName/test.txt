@@ -1,8 +1,0 @@
-ABCDE
-
-hoge
-foo
-bar
-
-X Y Z
-END
