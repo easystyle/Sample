@@ -1,5 +1,0 @@
-// カスタムオブザーバブル
-import rx.Observable;
-public class CustomObservable extends rx.Observable<String>{
-
-}
