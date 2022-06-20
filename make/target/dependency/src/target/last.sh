@@ -1,2 +1,0 @@
-echo ABC
-echo XYZ
