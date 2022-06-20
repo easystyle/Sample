@@ -1,9 +1,0 @@
-<AuthInfo>
-    <Users>
-        <UserInfo>
-            <name>testuser1</name>
-            <password>testpass1</password>
-            <role>users</role>
-        </UserInfo>
-    </Users>
-</AuthInfo>
