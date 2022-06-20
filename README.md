@@ -1,4 +1,0 @@
-Sample
-======
-
-Sample Program
