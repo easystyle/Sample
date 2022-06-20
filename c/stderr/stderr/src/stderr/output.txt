@@ -1,3 +1,0 @@
-errno = 0
-errno = 2
-strerror(errno) = No such file or directory
