@@ -1,0 +1,1 @@
+M5StackTreeViewみたいなIoT制御画面をAndroidアプリとして作ろうとして、RecyclerViewが便利そうだと思ったんじゃなかったかな？
